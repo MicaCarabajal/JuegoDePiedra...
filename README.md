@@ -1,2 +1,3 @@
 # JuegoDePiedra...
-Juego de piedra, papel o tijera. Realizado con JS en el workshop de Ada
+Juego de piedra, papel o tijera. Realizado con JS en el workshop de Ada.
+Para visualizar la página ingrese aquí: 
