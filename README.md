@@ -1,3 +1,3 @@
 # JuegoDePiedra...
 Juego de piedra, papel o tijera. Realizado con JS en el workshop de Ada.
-Para visualizar la página ingrese aquí: https://micautn190600.github.io/JuegoDePiedra.../
+Para visualizar la página ingrese aquí: https://micacarabajal.github.io/JuegoDePiedra.../
